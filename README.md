@@ -2,7 +2,6 @@
 
 - 🔭 Não trabalho com desenvolvimento no momento, mas procuro uma oportunidade.
 - 🌱 Estudando C, Python, Javascript e NodeJS.
-- 😄 Pronouns: Ele/Dele.
 
 <div align="center">
   <a href="https://github.com/LaysonHenrique">
