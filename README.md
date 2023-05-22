@@ -1,7 +1,7 @@
 ## Eae, tudo jóia? Eu sou o Layson Henrique
 
 - 🔭 Não trabalho com desenvolvimento no momento, mas procuro uma oportunidade.
-- 🌱 Estudando C, Python, Java, Javascript e NodeJS.
+- 🌱 Estudando C++, Python, Java, Javascript e NodeJS.
 
 <div align="center">
   <a href="https://github.com/LaysonHenrique">
