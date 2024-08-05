@@ -2,8 +2,7 @@
 
 - 🔭 Procuro uma oportunidade na área.
 - 🌱 Estudando de Sistemas de informação.
-- Conhecimento em Python, C e Java.
-- Estudando JavaScript e NodeJs
+
 
 <div align="center">
   <a href="https://github.com/LaysonHenrique">
